@@ -1,1 +1,1 @@
-create a file /dev/node-core/abc.js
+add to the file abc.js this content: javascript
