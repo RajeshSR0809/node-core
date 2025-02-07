@@ -7,7 +7,7 @@ import { watch, open, unlink, rename, appendFile } from "node:fs/promises";
         CREATE_A_FILE: "create a file",
         DELETE_A_FILE: "delete a file",
         RENAME_A_FILE: "rename the file",
-        ADD_TO_FILE: "add to the"
+        ADD_TO_FILE: "add to the file"
 
     }
     
